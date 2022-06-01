@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "573154501305",
+    "firebase_url": "https://smart-bin-343a6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-bin-343a6",
+    "storage_bucket": "smart-bin-343a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573154501305:android:0fa50e38ef288990e03168",
+        "android_client_info": {
+          "package_name": "com.bin.smart.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573154501305-a0kcq0iqef2v7ac2to0crkdoq5mrolrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1XwrOYITbzzSqWIROb_T4yUVSeLFWbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573154501305-a0kcq0iqef2v7ac2to0crkdoq5mrolrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573154501305:android:79ce69861a5a662de03168",
+        "android_client_info": {
+          "package_name": "com.smartbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573154501305-a0kcq0iqef2v7ac2to0crkdoq5mrolrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1XwrOYITbzzSqWIROb_T4yUVSeLFWbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573154501305-a0kcq0iqef2v7ac2to0crkdoq5mrolrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
